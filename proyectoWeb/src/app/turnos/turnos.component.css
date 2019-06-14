@@ -1,0 +1,57 @@
+body{
+    padding-top: 70px;
+}
+
+.noHayCajastxt{
+    color: #f80000e0;
+    font-size: 200%;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.turn-red{
+    background-color: #f80000e0;
+}
+
+#turno{
+    font-size: 200%;
+}
+
+.persona{
+    margin-left: 30%
+}
+
+.jumbotron{
+    margin-top: 3%;
+    margin-left: 1%;
+	color: #ffffff;
+    background: #66666680;
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+.estado{
+    margin-left: 40%;
+    
+}
+
+
+#imagenes {
+    max-width: 98%;
+    margin: 0 auto;
+  }
+  
+  .image-container {
+    padding: 5px;
+  }
+  
+  .main-image-container img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .thumbnail-image-container img {
+    max-width: 100%;
+    height: auto;
+  }
